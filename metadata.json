@@ -1,0 +1,7 @@
+{
+  "name": "DentaControl - Gestión de Pacientes",
+  "description": "Una aplicación integral para el control de asistencia y seguimiento de pacientes en una clínica dental, siguiendo la estructura de roles de trabajador y administrador.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
